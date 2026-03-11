@@ -1,16 +1,16 @@
 # Entrega – Documento de Casos de Uso e Diagramas
 
 ## Identificação da Dupla
-- Aluno 1:
-- Aluno 2:
+- Aluno 1: Mirian
+- Aluno 2: Alice
 
 ## Arquivos Entregues
 
 ### Documento de Casos de Uso
-Nome do arquivo entregue: UC_nomealuno1_nomealuno2.md
+Nome do arquivo entregue: UC_miriansuelen_alicemaganhoto.md
 
 ### Diagramas de Casos de Uso
-Arquivos entregues (PNG): DUC_XX_nomealuno1_nomealuno2.png, DUC_YY_nomealuno1_nomealuno2.png (Adicionar todos os diagramas enviados).
+Arquivos entregues (PNG): DUC_XX__miriansuelen_alicemaganhoto.png, DUC_YY_miriansuelen_alicemaganhoto.png (Adicionar todos os diagramas enviados).
 
 ## Issues Relacionadas
 > **Atenção:** As Issues devem ser **apenas referenciadas** — não utilize termos como *closes*, *fixes*, *resolve*.
